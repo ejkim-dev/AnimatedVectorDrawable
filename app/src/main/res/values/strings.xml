@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My AnimatedVectorDrawable</string>
+    <string name="animation_start">Start</string>
+</resources>
