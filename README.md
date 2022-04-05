@@ -2,4 +2,5 @@
 
 [Android 'AnimatedVectorDrawable' 공식문서](https://developer.android.com/reference/android/graphics/drawable/AnimatedVectorDrawable?hl=ko)
 
-[![애니메이션 동작 영상](https://i9.ytimg.com/vi/SdMD-KWc4pY/mq2.jpg?sqp=CLDUqpIG&rs=AOn4CLAHpqlsrDGPr9ESbjCrtTqyQupbbg)](https://studio.youtube.com/video/SdMD-KWc4pY/edit)
+# 실행화면
+<img src="https://user-images.githubusercontent.com/57036748/161713795-7bcd2f30-0205-425e-a5fa-69181ddd9ef5.gif">
